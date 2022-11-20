@@ -1,0 +1,26 @@
+[
+    {
+        "RSSURL": "你的pt下载rss地址1",
+        "SleepTime": 5,
+        "Paths": {
+            "default": "/tmp/mnt/sda4/downloads/Movies/",
+            "TV Series": "/tmp/mnt/sda4/downloads/tvSeries/",
+            "Animations": "/tmp/mnt/sda4/downloads/baby/",
+            "Misc": "/tmp/mnt/sda4/downloads/Misc/",
+            "TV Shows":"/tmp/mnt/sda4/downloads/tvShows/"
+        },
+        "Cmd": "/usr/bin/transmission-remote"
+    },
+    {
+        "RSSURL": "你的pt下载rss地址2",
+        "SleepTime": 5,
+        "Paths": {
+            "default": "/tmp/mnt/sda4/downloads/Movies/",
+            "TV Series": "/tmp/mnt/sda4/downloads/tvSeries/",
+            "Animations": "/tmp/mnt/sda4/downloads/baby/",
+            "Misc": "/tmp/mnt/sda4/downloads/Misc/",
+            "TV Shows":"/tmp/mnt/sda4/downloads/tvShows/"
+        },
+        "Cmd": "/usr/bin/transmission-remote"
+    }
+]
